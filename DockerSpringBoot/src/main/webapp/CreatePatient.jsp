@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome To Task Management System</title>
+<title>Welcome To our Lab Task Management System</title>
 </head>
 <body>
 	<form action="addPatient">              
